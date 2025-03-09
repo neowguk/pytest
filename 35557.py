@@ -5,3 +5,6 @@ for _ in range(T):
 if a == 1:
     print(1)
     
+else:
+    print(a - 1)
+    
